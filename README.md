@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/photo.jpeg" width="150">
+<img src="Photo.jpeg" width="150">
 </p>
 
 # Michaelmicil-
