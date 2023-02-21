@@ -1,6 +1,3 @@
-<p align="center">
-<img src="Testing.jpg" width="150">
-</p>
 
 # Michaelmicil-
 Michaelmicil Curriculum Vitae
