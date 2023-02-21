@@ -12,7 +12,9 @@ Michaelmicil Curriculum Vitae
 + Tax Intern at Magna Praxis Consulting Indonesia (Febuary 2020 until March 2021)
     - Assiting associate in prepairing WHT calculation
     - Liase with associate to prepare monthly WHT and VAT
-    - Perform othe duties as assigned
+    - Perform other duties as assigned
 
-### Education
-+ Bachelor of Accounting from Binus University
+### Education History
++ Binus University
+    - Bachelor of Accounting with taxation stream
+
