@@ -2,6 +2,9 @@
 # Michaelmicil-
 Michaelmicil Curriculum Vitae
 
+### About Me
+    Accounting graduate with 2 year experience in Indonesia taxation
+
 ### Work Experience 
 + Tax Associate at Acclime Consulting Indonesia (March 2021 until Febuary 2022)
     - Maintain monthly tax reconciliation
@@ -18,3 +21,11 @@ Michaelmicil Curriculum Vitae
 + Binus University
     - Bachelor of Accounting with taxation stream
 
+### Skills
++ Indonesia tax reporting 
++ Financial analysis
++ Adavanced excel
++ Bookkeeping
+
+### Certification
++ Indonesia tax certificaton (Brevet A&B)
