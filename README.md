@@ -2,6 +2,10 @@
 # Michaelmicil-
 Michaelmicil Curriculum Vitae
 
+<p align="center">
+<img src="Photo.jpeg" width="150">
+</p>
+
 ### About Me
     Accounting graduate with 2 year experience in Indonesia taxation
 
