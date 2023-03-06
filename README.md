@@ -13,7 +13,7 @@ Michaelmicil Curriculum Vitae
 <a href="https://linkedin.com/in/michael-w-033aa0195" target="blank"><img align="center" src="LinkedIn.jpeg" width="65" height="50" alt="michael-w-033aa0195"/></a>
 <a href="https://fb.com/michael.wong.1466126" target="blank"><img align="center" src="FB.jpeg" width="75" height="50" alt="michael.wong.1466126"/></a>
 <a href="https://instagram.com/michael17_wong" target="blank"><img align="center" src="Instagram.png" Width="75" height="50" alt="michael17_wong"/></a>
-</p>
+
 
 
 ### Work Experience 
