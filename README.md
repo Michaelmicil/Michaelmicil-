@@ -2,7 +2,7 @@
 # Michaelmicil-
 Michaelmicil Curriculum Vitae
 
-<p align="left">
+<p align="Center">
 <img src="Photo.jpeg" width="150">
 </P>
 
@@ -10,11 +10,11 @@ Michaelmicil Curriculum Vitae
   My name is Michael, I am 23 years old from Indonesia, I am a graduate of accounting degree. and now i am currently taking a master's program at Tunghai University majoring in Global Master Business Administration (GMBA) 
 
 ### Social Media
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-w-033aa0195/" target="blank"><img align="center" src="LinkedIn.png" width="35" alt="https://www.linkedin.com/in/michael-w-033aa0195/"/></a>
-<a href="https://fb.com/https://www.facebook.com/michael.wong.1466126" target="blank"><img align="center" src="FB.jpeg" width="50" alt="https://www.facebook.com/michael.wong.1466126"/></a>
-<a href="https://instagram.com/https://www.instagram.com/michael17_wong/" target="blank"><img align="center" src="Instagram.png" width="75" alt="https://www.instagram.com/michael17_wong/"/></a>
+<a href="https://linkedin.com/in/michael-w-033aa0195" target="blank"><img align="center" src="Linkedin.png" width="50" alt="michael-w-033aa0195"/></a>
+<a href="https://fb.com/michael.wong.1466126" target="blank"><img align="center" src="FB.jpeg" width="75" height="50" alt="michael.wong.1466126"/></a>
+<a href="https://instagram.com/michael17_wong" target="blank"><img align="center" src="Instagram.png" Width="75" height="50" alt="michael17_wong"/></a>
 </p>
+
 
 ### Work Experience 
 + Tax Associate at Acclime Consulting Indonesia (March 2021 until Febuary 2022)
@@ -29,7 +29,7 @@ Michaelmicil Curriculum Vitae
     - Perform other duties as assigned
 
 ### Education History
-+ Binus University
++ Binus University [BINUS](https://binus.ac.id/).
     - Bachelor of Accounting with taxation stream
 
 ### Skills
