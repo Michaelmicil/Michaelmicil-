@@ -12,7 +12,7 @@ Michaelmicil Curriculum Vitae
 ### Social Media
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-w-033aa0195/" target="blank"><img align="center" src="LinkedIn.png" width="35" alt="https://www.linkedin.com/in/michael-w-033aa0195/"/></a>
-<a href="https://fb.com/https://www.facebook.com/michael.wong.1466126" target="blank"><img align="center" src="" width="" alt="https://www.facebook.com/michael.wong.1466126"/></a>
+<a href="https://fb.com/https://www.facebook.com/michael.wong.1466126" target="blank"><img align="center" src="FB.jpeg" width="50" alt="https://www.facebook.com/michael.wong.1466126"/></a>
 <a href="https://instagram.com/https://www.instagram.com/michael17_wong/" target="blank"><img align="center" src="Instagram.png" width="75" alt="https://www.instagram.com/michael17_wong/"/></a>
 </p>
 
