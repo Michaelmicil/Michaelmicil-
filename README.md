@@ -3,7 +3,7 @@
 Michaelmicil Curriculum Vitae
 
 <p align="left">
-<img src="Photo.jpeg" width="175">
+<img src="Photo.jpeg" width="150">
 </P>
 
 ### About Me
