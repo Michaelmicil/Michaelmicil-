@@ -2,12 +2,12 @@
 # Michaelmicil-
 Michaelmicil Curriculum Vitae
 
-<p align="center">
-<img src="Photo.jpeg" width="150">
-</p>
+<p align="left">
+<img src="Photo.jpeg" width="175">
+</P>
 
 ### About Me
-    Accounting graduate with 2 year experience in Indonesia taxation
+  My name is Michael, I am 23 years old from Indonesia, I am a graduate of accounting degree. and now i am currently taking a master's program at Tunghai University majoring in Global Master Business Administration (GMBA) 
 
 ### Work Experience 
 + Tax Associate at Acclime Consulting Indonesia (March 2021 until Febuary 2022)
