@@ -10,7 +10,7 @@ Michaelmicil Curriculum Vitae
   My name is Michael, I am 23 years old from Indonesia, I am a graduate of accounting degree. and now i am currently taking a master's program at Tunghai University majoring in Global Master Business Administration (GMBA) 
 
 ### Social Media
-<a href="https://linkedin.com/in/michael-w-033aa0195" target="blank"><img align="center" src="LinkedIn.png" width="50" alt="michael-w-033aa0195"/></a>
+<a href="https://linkedin.com/in/michael-w-033aa0195" target="blank"><img align="center" src="LinkedIn.Jpeg" width="65" height="50" alt="michael-w-033aa0195"/></a>
 <a href="https://fb.com/michael.wong.1466126" target="blank"><img align="center" src="FB.jpeg" width="75" height="50" alt="michael.wong.1466126"/></a>
 <a href="https://instagram.com/michael17_wong" target="blank"><img align="center" src="Instagram.png" Width="75" height="50" alt="michael17_wong"/></a>
 </p>
